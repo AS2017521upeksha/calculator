@@ -1,1 +1,1 @@
-printf("HI")
+print("This is calculator")
